@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+![screenshoot hello_world](images/01.png)
+![screenshoot text widget](images/02.png)
+![screenshoot image widget](images/03.png)
+![screenshoot Cupertino Button dan Loading Bar](images/04.png)
+![screenshoot Floating Action Button (FAB)](images/05.png)
+![screenshoot Scaffold Widget](images/06.png)
+![screenshoot Dialog Widget](images/07.png)
+![screenshoot Input dan Selection Widget](images/08.png)
+![screenshoot Date and time pickers Widget](images/09.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
